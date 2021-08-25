@@ -1,0 +1,42 @@
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    color: grey;
+    background-color: #F9F9F9;
+}
+.navbar-header p{
+  margin-top: 1rem;
+}
+.nav-link{
+  color: grey;
+}
+.justify-content-end  li a:hover {
+    color: #1abc9c !important;
+}
+
+.postContent{
+  display: inline;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: fixed;
+  bottom: 0;
+  width: 100%;
+	background-color: #1abc9c;
+}
+.footer p{
+  margin-bottom: 0;
+}
